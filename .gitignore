@@ -1,6 +1,8 @@
 *.exe
 *.o
 *.out
+*.cph
+.gitignore
 *.obj
 build/
 bin/
